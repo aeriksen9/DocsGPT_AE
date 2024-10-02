@@ -270,6 +270,7 @@ function Upload({
       'application/vnd.openxmlformats-officedocument.wordprocessingml.document':
         ['.docx'],
       'text/csv': ['.csv'],
+      'text/html': ['.html'],
     },
   });
 
